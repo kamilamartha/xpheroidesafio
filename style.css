@@ -1,0 +1,31 @@
+
+h1{
+font-family:serif;
+font-size: 35px;
+color: rgb(255, 255, 255);
+text-shadow: 1px 1px black;
+text-align: center;
+background-color: rgb(168, 92, 239);
+border-radius: 15px;
+margin: 15px;
+font-weight: bolder;
+}
+article{
+    background-color: rgb(168, 92, 239);
+    border-radius: 15px;
+    height: 600px;
+    margin: 15px;
+    padding: 15px;
+    color: white;
+    text-shadow: 0.5px 0.5px black;
+}
+#botao{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 2px black;
+    width: 100px;
+    font-weight: bolder;
+}
+#resultado{
+    color: white;
+}
